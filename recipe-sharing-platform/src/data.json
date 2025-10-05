@@ -1,0 +1,8 @@
+[
+    {
+        "id": 1, 
+        "title": "Spaghetti Bolognese", 
+        "summary": "A classic Italian pasta dish with a rich and hearty meat sauce", 
+        "imageUrl": "alx-fe-reactjs/recipe-sharing-platform/src/images/Authentic-Spaghetti-Bolognese-SQ-500x500.jpg"
+    }
+]
